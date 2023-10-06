@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class PersonagemBuilder {
 
     private Personagem personagem;
